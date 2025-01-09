@@ -55,11 +55,10 @@ Widget build(BuildContext context) {
       ),
       child: Text(
         "Change Color",
+          ),  
+        ),
       ),
-            
-    ),
-    ),
-  );
-}
+    );
+  }
 }
 
